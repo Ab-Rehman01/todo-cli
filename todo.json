@@ -1,15 +1,7 @@
 [
     {
         "task": "Buy groceries",
-        "done": false
-    },
-    {
-        "task": "Buy milk",
-        "done": false
-    },
-    {
-        "task": "Go to gym",
-        "done": false
+        "done": true
     },
     {
         "task": "Buy milk",
@@ -26,6 +18,10 @@
     {
         "task": "jhkjhjhkjhkjh",
         "done": true
+    },
+    {
+        "task": "hghghghj",
+        "done": false
     },
     {
         "task": "hghghghj",

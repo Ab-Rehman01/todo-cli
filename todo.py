@@ -33,8 +33,9 @@ def add(task):
     save_tasks(tasks)
     click.echo(f"Task added successfully: {task}")
 
-@click.command()
+@click.command(name="list")
 def list_tasks():
+
     """List all the tasks"""
     tasks = load_tasks()
     if not tasks:
